@@ -13,7 +13,7 @@ const ContactPageDesktop: FunctionComponent = () => {
         </div>
         <div className={styles.navbar}>
           <div className={styles.container}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo9@2x.png" />
             <div className={styles.buttonsContainer}>
               <div className={styles.button}>
                 <div className={styles.text}>Anasayfa</div>
@@ -34,7 +34,7 @@ const ContactPageDesktop: FunctionComponent = () => {
       <div className={styles.footerSection}>
         <div className={styles.container1}>
           <div className={styles.subContainer}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo10@2x.png" />
             <div className={styles.buttonsContainer2}>
               <div className={styles.button2}>
                 <img className={styles.icon} alt="" src="/icon7@2x.png" />
@@ -77,7 +77,7 @@ const ContactPageDesktop: FunctionComponent = () => {
                   <img className={styles.icon} alt="" src="/icon10@2x.png" />
                 </div>
                 <div className={styles.button5}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon13@2x.png" />
                 </div>
                 <div className={styles.button5}>
                   <img className={styles.icon} alt="" src="/icon12@2x.png" />
@@ -149,19 +149,19 @@ const ContactPageDesktop: FunctionComponent = () => {
         <div className={styles.buttonsContainer6}>
           <div className={styles.button9}>
             <div className={styles.button10}>
-              <img className={styles.icon} alt="" src="/icon@2x.png" />
+              <img className={styles.icon} alt="" src="/icon21@2x.png" />
             </div>
             <div className={styles.textButton7}>support@girtes.com</div>
           </div>
           <div className={styles.button9}>
             <div className={styles.button10}>
-              <img className={styles.icon} alt="" src="/icon@2x.png" />
+              <img className={styles.icon} alt="" src="/icon22@2x.png" />
             </div>
             <div className={styles.textButton7}>+90 85000 00000</div>
           </div>
           <div className={styles.button9}>
             <div className={styles.button10}>
-              <img className={styles.icon} alt="" src="/icon@2x.png" />
+              <img className={styles.icon} alt="" src="/icon23@2x.png" />
             </div>
             <div className={styles.textButton7}>
               Türkiye, Ankara Gençlik Spor
@@ -170,13 +170,13 @@ const ContactPageDesktop: FunctionComponent = () => {
           <div className={styles.button9}>
             <div className={styles.buttonsContainer5}>
               <div className={styles.button5}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon24@2x.png" />
               </div>
               <div className={styles.button5}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon25@2x.png" />
               </div>
               <div className={styles.button5}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon26@2x.png" />
               </div>
             </div>
             <div className={styles.textButton7}>Sosyal Medya</div>

@@ -28,7 +28,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
         </div>
         <div className={styles.navbar}>
           <div className={styles.container}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo9@2x.png" />
             <div className={styles.buttonsContainer}>
               <div className={styles.button}>
                 <div className={styles.text}>Anasayfa</div>
@@ -53,7 +53,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
       <div className={styles.footerSection}>
         <div className={styles.container1}>
           <div className={styles.subContainer}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo10@2x.png" />
             <div className={styles.buttonsContainer2}>
               <div className={styles.button2}>
                 <img className={styles.icon} alt="" src="/icon7@2x.png" />
@@ -96,7 +96,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <img className={styles.icon} alt="" src="/icon10@2x.png" />
                 </div>
                 <div className={styles.button5}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon13@2x.png" />
                 </div>
                 <div className={styles.button5}>
                   <img className={styles.icon} alt="" src="/icon12@2x.png" />
@@ -134,7 +134,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 01</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
                   <div className={styles.text5}>4 Dakika</div>
                 </div>
               </div>
@@ -144,7 +144,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 02</div>
                 </div>
                 <div className={styles.container8}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
                   <div className={styles.text5}>3 Dakika</div>
                 </div>
               </div>
@@ -154,7 +154,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 03</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
                   <div className={styles.text5}>12 Dakika</div>
                 </div>
               </div>
@@ -174,7 +174,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 01</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
                   <div className={styles.text5}>22 Dakika</div>
                 </div>
               </div>
@@ -186,7 +186,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 02</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
                   <div className={styles.text5}>18 Dakika</div>
                 </div>
               </div>
@@ -198,7 +198,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 03</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
                   <div className={styles.text5}>16 Dakika</div>
                 </div>
               </div>
@@ -220,8 +220,8 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 01</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
-                  <div className={styles.text5}>1 Hour</div>
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
+                  <div className={styles.text5}>14 Dakika</div>
                 </div>
               </div>
               <div className={styles.featureItem}>
@@ -232,8 +232,8 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 02</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
-                  <div className={styles.text5}>1 Hour</div>
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
+                  <div className={styles.text5}>1 Dakika</div>
                 </div>
               </div>
               <div className={styles.featureItem}>
@@ -244,8 +244,8 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
                   <div className={styles.text4}>Ders 03</div>
                 </div>
                 <div className={styles.container7}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
-                  <div className={styles.text5}>1 Hour</div>
+                  <img className={styles.icon} alt="" src="/icon27@2x.png" />
+                  <div className={styles.text5}>22 Dakika</div>
                 </div>
               </div>
             </div>
@@ -259,7 +259,7 @@ const CoursesOpenPageDesktop: FunctionComponent = () => {
       </div>
       <div className={styles.container16}>
         <div className={styles.button9}>
-          <img className={styles.icon16} alt="" src="/icon@2x.png" />
+          <img className={styles.icon16} alt="" src="/icon28@2x.png" />
         </div>
       </div>
     </div>

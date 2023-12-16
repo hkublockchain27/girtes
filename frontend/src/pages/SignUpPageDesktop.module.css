@@ -222,7 +222,7 @@
   font-size: var(--font-size-lg);
   color: var(--grey-35);
   display: inline-block;
-  height: 54px;
+  height: 117px;
   flex-shrink: 0;
 }
 .textContainer {

@@ -20,7 +20,7 @@ const AboutUsPageDesktop: FunctionComponent = () => {
         </div>
         <div className={styles.navbar}>
           <div className={styles.container}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo9@2x.png" />
             <div className={styles.buttonsContainer}>
               <div className={styles.button}>
                 <div className={styles.text}>Anasayfa</div>
@@ -41,7 +41,7 @@ const AboutUsPageDesktop: FunctionComponent = () => {
       <div className={styles.footerSection}>
         <div className={styles.container1}>
           <div className={styles.subContainer}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo10@2x.png" />
             <div className={styles.buttonsContainer2}>
               <div className={styles.button2}>
                 <img className={styles.icon} alt="" src="/icon7@2x.png" />
@@ -84,7 +84,7 @@ const AboutUsPageDesktop: FunctionComponent = () => {
                   <img className={styles.icon} alt="" src="/icon10@2x.png" />
                 </div>
                 <div className={styles.button5}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon13@2x.png" />
                 </div>
                 <div className={styles.button5}>
                   <img className={styles.icon} alt="" src="/icon12@2x.png" />
@@ -145,7 +145,7 @@ const AboutUsPageDesktop: FunctionComponent = () => {
                 <img
                   className={styles.objectsTools}
                   alt=""
-                  src="/objects--tools@2x.png"
+                  src="/objects--tools1@2x.png"
                 />
               </div>
               <div className={styles.textContainer1}>
@@ -166,7 +166,7 @@ const AboutUsPageDesktop: FunctionComponent = () => {
                 <img
                   className={styles.objectsTools}
                   alt=""
-                  src="/objects--tools@2x.png"
+                  src="/objects--tools2@2x.png"
                 />
               </div>
               <div className={styles.textContainer1}>
@@ -186,7 +186,7 @@ const AboutUsPageDesktop: FunctionComponent = () => {
                 <img
                   className={styles.objectsTools}
                   alt=""
-                  src="/objects--tools@2x.png"
+                  src="/objects--tools3@2x.png"
                 />
               </div>
               <div className={styles.textContainer1}>

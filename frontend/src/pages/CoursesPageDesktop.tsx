@@ -36,7 +36,7 @@ const CoursesPageDesktop: FunctionComponent = () => {
         </div>
         <div className={styles.navbar}>
           <div className={styles.container}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo9@2x.png" />
             <div className={styles.buttonsContainer}>
               <div className={styles.button} onClick={onButtonContainerClick}>
                 <div className={styles.textButton}>Anasayfa</div>
@@ -61,7 +61,7 @@ const CoursesPageDesktop: FunctionComponent = () => {
       <div className={styles.footerSection}>
         <div className={styles.container1}>
           <div className={styles.subContainer}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo10@2x.png" />
             <div className={styles.buttonsContainer2}>
               <div className={styles.button2}>
                 <img className={styles.icon} alt="" src="/icon7@2x.png" />
@@ -104,7 +104,7 @@ const CoursesPageDesktop: FunctionComponent = () => {
                   <img className={styles.icon} alt="" src="/icon10@2x.png" />
                 </div>
                 <div className={styles.button5}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon13@2x.png" />
                 </div>
                 <div className={styles.button5}>
                   <img className={styles.icon} alt="" src="/icon12@2x.png" />
@@ -148,9 +148,9 @@ const CoursesPageDesktop: FunctionComponent = () => {
               </div>
             </div>
             <div className={styles.imageContainer}>
-              <img className={styles.imageIcon} alt="" src="/image@2x.png" />
-              <img className={styles.imageIcon} alt="" src="/image@2x.png" />
-              <img className={styles.imageIcon} alt="" src="/image@2x.png" />
+              <img className={styles.imageIcon} alt="" src="/image9@2x.png" />
+              <img className={styles.imageIcon} alt="" src="/image10@2x.png" />
+              <img className={styles.imageIcon} alt="" src="/image11@2x.png" />
             </div>
             <div className={styles.subContainer4}>
               <div className={styles.container8}>
@@ -219,8 +219,8 @@ const CoursesPageDesktop: FunctionComponent = () => {
               </div>
             </div>
             <div className={styles.imageContainer}>
-              <img className={styles.imageIcon3} alt="" src="/image@2x.png" />
-              <img className={styles.imageIcon} alt="" src="/image@2x.png" />
+              <img className={styles.imageIcon3} alt="" src="/image12@2x.png" />
+              <img className={styles.imageIcon} alt="" src="/image13@2x.png" />
             </div>
             <div className={styles.subContainer4}>
               <div className={styles.container8}>
@@ -231,7 +231,7 @@ const CoursesPageDesktop: FunctionComponent = () => {
                   <div className={styles.text5}>Orta</div>
                 </div>
               </div>
-              <div className={styles.name}>By Emily Johnson</div>
+              <div className={styles.name}>By Kosgeb</div>
             </div>
           </div>
         </div>

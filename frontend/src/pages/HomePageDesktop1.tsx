@@ -44,7 +44,7 @@ const HomePageDesktop1: FunctionComponent = () => {
             <img
               className={styles.abstractLineIcon}
               alt=""
-              src="/abstract-line@2x.png"
+              src="/abstract-line1@2x.png"
             />
           </div>
           <div className={styles.textContainer}>
@@ -67,7 +67,7 @@ const HomePageDesktop1: FunctionComponent = () => {
       </div>
       <div className={styles.container1}>
         <div className={styles.button2}>
-          <img className={styles.icon1} alt="" src="/icon@2x.png" />
+          <img className={styles.icon1} alt="" src="/icon29@2x.png" />
         </div>
       </div>
       <div className={styles.header}>
@@ -79,7 +79,7 @@ const HomePageDesktop1: FunctionComponent = () => {
         </div>
         <div className={styles.navbar}>
           <div className={styles.container2}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo9@2x.png" />
             <div className={styles.buttonsContainer1}>
               <div className={styles.button3}>
                 <div className={styles.textButton}>Anasayfa</div>
@@ -107,11 +107,11 @@ const HomePageDesktop1: FunctionComponent = () => {
       </div>
       <div className={styles.container3}>
         <div className={styles.card}>
-          <img className={styles.logoIcon1} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon1} alt="" src="/logo11@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon2} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon2} alt="" src="/logo12@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
@@ -119,15 +119,15 @@ const HomePageDesktop1: FunctionComponent = () => {
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon4} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon4} alt="" src="/logo13@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon5} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon5} alt="" src="/logo14@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon6} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon6} alt="" src="/logo15@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
@@ -139,13 +139,15 @@ const HomePageDesktop1: FunctionComponent = () => {
           <div className={styles.textContainer1}>
             <div className={styles.heading2}>Faydalar</div>
             <div className={styles.paragraph1}>
-              Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam
-              eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac
-              cum eget habitasse in velit fringilla feugiat senectus in.
+              Kursun faydaları şunları içerir: Katılımcılara yeni bilgi ve
+              beceriler kazandırarak kişisel ve mesleki gelişimlerini destekler.
+              Uzman eğitmenler rehberliğinde, pratik deneyimlerle öğrenme
+              fırsatları sunar, ayrıca kursun tamamlanmasıyla sertifika alarak
+              bu yeni yetenekleri resmileştirme şansı tanır.
             </div>
           </div>
           <div className={styles.button5}>
-            <div className={styles.text1}>View All</div>
+            <div className={styles.text1}>Hepsini gör</div>
           </div>
         </div>
         <div className={styles.container5}>
@@ -160,7 +162,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon30@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -173,7 +175,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon30@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -186,7 +188,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon30@2x.png" />
               </div>
             </div>
           </div>
@@ -201,7 +203,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon30@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -216,7 +218,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon30@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -228,7 +230,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                 >{`Anlayışınızı geliştirmek için diğer öğrencilerle işbirliği yapın, fikir alışverişinde bulunun ve geri bildirimde bulunun. `}</div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon30@2x.png" />
               </div>
             </div>
           </div>
@@ -242,9 +244,10 @@ const HomePageDesktop1: FunctionComponent = () => {
           <div className={styles.textContainer1}>
             <div className={styles.heading2}>Kurslarımız</div>
             <div className={styles.paragraph1}>
-              Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam
-              eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac
-              cum eget habitasse in velit fringilla feugiat senectus in.
+              Her seviyeden katılımcıya hitap eden bu kurslar, pratik
+              deneyimlerle desteklenerek etkili bir öğrenme deneyimi sunar.
+              Geniş yelpazede yer alan konular arasında kişisel gelişim,
+              teknoloji, sanat, iş dünyası ve daha birçok alan bulunmaktadır.
             </div>
           </div>
           <div className={styles.button5}>
@@ -255,7 +258,11 @@ const HomePageDesktop1: FunctionComponent = () => {
           <div className={styles.itemsContainer2}>
             <div className={styles.card13}>
               <div className={styles.container8}>
-                <img className={styles.imageIcon} alt="" src="/image@2x.png" />
+                <img
+                  className={styles.imageIcon}
+                  alt=""
+                  src="/image14@2x.png"
+                />
                 <div className={styles.container8}>
                   <div className={styles.container9}>
                     <div className={styles.subContainer2}>
@@ -287,7 +294,11 @@ const HomePageDesktop1: FunctionComponent = () => {
             </div>
             <div className={styles.card14}>
               <div className={styles.container8}>
-                <img className={styles.imageIcon} alt="" src="/image@2x.png" />
+                <img
+                  className={styles.imageIcon}
+                  alt=""
+                  src="/image15@2x.png"
+                />
                 <div className={styles.container8}>
                   <div className={styles.container9}>
                     <div className={styles.subContainer2}>
@@ -400,7 +411,7 @@ const HomePageDesktop1: FunctionComponent = () => {
       <div className={styles.testimonialsSection}>
         <div className={styles.container4}>
           <div className={styles.textContainer1}>
-            <div className={styles.heading2}>Our Testimonials</div>
+            <div className={styles.heading2}>Referanslarımız</div>
             <div className={styles.paragraph1}>
               Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam
               eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac
@@ -416,10 +427,9 @@ const HomePageDesktop1: FunctionComponent = () => {
             <div className={styles.card18}>
               <div className={styles.container26}>
                 <div className={styles.paragraph14}>
-                  The web design course provided a solid foundation for me. The
-                  instructors were knowledgeable and supportive, and the
-                  interactive learning environment was engaging. I highly
-                  recommend it!
+                  Web tasarım kursu bana sağlam bir temel sağladı. Eğitmenler
+                  bilgili ve destekleyiciydi ve etkileşimli öğrenme ortamı ilgi
+                  çekiciydi. Şiddetle tavsiye ederim!
                 </div>
               </div>
               <div className={styles.line6} />
@@ -430,20 +440,19 @@ const HomePageDesktop1: FunctionComponent = () => {
                     alt=""
                     src="/image4@2x.png"
                   />
-                  <div className={styles.name4}>Sarah L</div>
+                  <div className={styles.name4}>Sabiha L</div>
                 </div>
                 <div className={styles.button19}>
-                  <div className={styles.text1}>Read Full Story</div>
+                  <div className={styles.text1}>Tamamını Okuyun</div>
                 </div>
               </div>
             </div>
             <div className={styles.card18}>
               <div className={styles.container26}>
                 <div className={styles.paragraph14}>
-                  The UI/UX design course exceeded my expectations. The
-                  instructor's expertise and practical assignments helped me
-                  improve my design skills. I feel more confident in my career
-                  now. Thank you!
+                  UI/UX tasarım kursu beklentilerimi aştı. Eğitmenin uzmanlığı
+                  ve pratik ödevleri tasarım becerilerimi geliştirmeme yardımcı
+                  oldu. Artık kariyerime daha çok güveniyorum. Teşekkür ederim!
                 </div>
               </div>
               <div className={styles.line6} />
@@ -454,10 +463,10 @@ const HomePageDesktop1: FunctionComponent = () => {
                     alt=""
                     src="/image5@2x.png"
                   />
-                  <div className={styles.name4}>Jason M</div>
+                  <div className={styles.name4}>Ali M</div>
                 </div>
                 <div className={styles.button19}>
-                  <div className={styles.text1}>Read Full Story</div>
+                  <div className={styles.text1}>Tamamını Okuyun</div>
                 </div>
               </div>
             </div>
@@ -466,10 +475,10 @@ const HomePageDesktop1: FunctionComponent = () => {
             <div className={styles.card18}>
               <div className={styles.container26}>
                 <div className={styles.paragraph14}>
-                  The mobile app development course was fantastic! The
-                  step-by-step tutorials and hands-on projects helped me grasp
-                  the concepts easily. I'm now building my own app. Great
-                  course!
+                  Mobil uygulama geliştirme kursu muhteşemdi! Adım adım
+                  eğitimler ve uygulamalı projeler kavramları kolayca kavramama
+                  yardımcı oldu. Şimdi kendi uygulamamı geliştiriyorum. Harika
+                  kurs!
                 </div>
               </div>
               <div className={styles.line6} />
@@ -480,20 +489,20 @@ const HomePageDesktop1: FunctionComponent = () => {
                     alt=""
                     src="/image6@2x.png"
                   />
-                  <div className={styles.name4}>Emily R</div>
+                  <div className={styles.name4}>Emine R</div>
                 </div>
                 <div className={styles.button19}>
-                  <div className={styles.text1}>Read Full Story</div>
+                  <div className={styles.text1}>Tamamını Okuyun</div>
                 </div>
               </div>
             </div>
             <div className={styles.card18}>
               <div className={styles.container26}>
                 <div className={styles.paragraph14}>
-                  I enrolled in the graphic design course as a beginner, and it
-                  was the perfect starting point. The instructor's guidance and
-                  feedback improved my design abilities significantly. I'm
-                  grateful for this course!
+                  Grafik tasarım kursuna yeni başlayan biri olarak kaydoldum ve
+                  bu mükemmel bir başlangıç ​​noktasıydı. Eğitmenin rehberliği
+                  ve geri bildirimi tasarım becerilerimi önemli ölçüde
+                  geliştirdi. Bu kurs için minnettarım!
                 </div>
               </div>
               <div className={styles.line6} />
@@ -504,10 +513,10 @@ const HomePageDesktop1: FunctionComponent = () => {
                     alt=""
                     src="/image7@2x.png"
                   />
-                  <div className={styles.name4}>Michael K</div>
+                  <div className={styles.name4}>Mikail K</div>
                 </div>
                 <div className={styles.button19}>
-                  <div className={styles.text1}>Read Full Story</div>
+                  <div className={styles.text1}>Tamamını Okuyun</div>
                 </div>
               </div>
             </div>
@@ -534,7 +543,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                 Aynı anda birden fazla kursa kayıt olabilir miyim?
               </div>
               <div className={styles.button24}>
-                <img className={styles.icon9} alt="" src="/icon@2x.png" />
+                <img className={styles.icon9} alt="" src="/icon31@2x.png" />
               </div>
             </div>
             <div className={styles.paragraph18}>
@@ -588,7 +597,7 @@ const HomePageDesktop1: FunctionComponent = () => {
       <div className={styles.footerSection}>
         <div className={styles.container36}>
           <div className={styles.subContainer14}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo10@2x.png" />
             <div className={styles.buttonsContainer3}>
               <div className={styles.button30}>
                 <img className={styles.icon2} alt="" src="/icon7@2x.png" />
@@ -631,7 +640,7 @@ const HomePageDesktop1: FunctionComponent = () => {
                   <img className={styles.icon2} alt="" src="/icon10@2x.png" />
                 </div>
                 <div className={styles.button33}>
-                  <img className={styles.icon2} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon2} alt="" src="/icon13@2x.png" />
                 </div>
                 <div className={styles.button33}>
                   <img className={styles.icon2} alt="" src="/icon12@2x.png" />

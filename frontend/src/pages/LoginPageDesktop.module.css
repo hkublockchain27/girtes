@@ -214,17 +214,20 @@
 }
 .heading3,
 .paragraph {
-  align-self: stretch;
   position: relative;
   line-height: 150%;
 }
 .heading3 {
+  align-self: stretch;
   font-weight: 500;
 }
 .paragraph {
-  flex: 1;
   font-size: var(--font-size-lg);
   color: var(--grey-35);
+  display: inline-block;
+  width: 838px;
+  height: 109px;
+  flex-shrink: 0;
 }
 .textContainer {
   align-self: stretch;

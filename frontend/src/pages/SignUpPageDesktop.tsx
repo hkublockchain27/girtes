@@ -13,7 +13,7 @@ const SignUpPageDesktop: FunctionComponent = () => {
         </div>
         <div className={styles.navbar}>
           <div className={styles.container}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo9@2x.png" />
             <div className={styles.buttonsContainer}>
               <div className={styles.button}>
                 <div className={styles.text}>Anasayfa</div>
@@ -34,7 +34,7 @@ const SignUpPageDesktop: FunctionComponent = () => {
       <div className={styles.footerSection}>
         <div className={styles.container1}>
           <div className={styles.subContainer}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo10@2x.png" />
             <div className={styles.buttonsContainer2}>
               <div className={styles.button2}>
                 <img className={styles.icon} alt="" src="/icon7@2x.png" />
@@ -77,7 +77,7 @@ const SignUpPageDesktop: FunctionComponent = () => {
                   <img className={styles.icon} alt="" src="/icon10@2x.png" />
                 </div>
                 <div className={styles.button5}>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon13@2x.png" />
                 </div>
                 <div className={styles.button5}>
                   <img className={styles.icon} alt="" src="/icon12@2x.png" />
@@ -96,9 +96,11 @@ const SignUpPageDesktop: FunctionComponent = () => {
           <div className={styles.textContainer}>
             <div className={styles.heading3}>Öğrenci Görüşleri</div>
             <div className={styles.paragraph}>
-              Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam
-              eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac
-              cum eget habitasse in velit fringilla feugiat senectus in.
+              Öğrencilerimiz, uzman eğitmenlerimizin rehberliğinde edindikleri
+              bilgi ve becerilerin kendilerine nasıl katkı sağladığını ifade
+              ediyorlar. Ayrıca, kurslarımızın içeriği, etkileşimli öğrenme
+              materyalleri ve pratik uygulamalar hakkında samimi düşüncelerini
+              paylaşarak diğer potansiyel katılımcılara rehberlik ediyorlar.
             </div>
           </div>
           <div className={styles.container5}>
@@ -116,7 +118,7 @@ const SignUpPageDesktop: FunctionComponent = () => {
                   <img
                     className={styles.imageIcon}
                     alt=""
-                    src="/image@2x.png"
+                    src="/image8@2x.png"
                   />
                   <div className={styles.name}>Ahmet L</div>
                 </div>
@@ -127,10 +129,10 @@ const SignUpPageDesktop: FunctionComponent = () => {
             </div>
             <div className={styles.buttonsContainer6}>
               <div className={styles.button9}>
-                <img className={styles.icon7} alt="" src="/icon@2x.png" />
+                <img className={styles.icon7} alt="" src="/icon14@2x.png" />
               </div>
               <div className={styles.button9}>
-                <img className={styles.icon7} alt="" src="/icon@2x.png" />
+                <img className={styles.icon7} alt="" src="/icon15@2x.png" />
               </div>
             </div>
           </div>
@@ -160,7 +162,7 @@ const SignUpPageDesktop: FunctionComponent = () => {
                 <div className={styles.heading3}>Password</div>
                 <div className={styles.inputField2}>
                   <div className={styles.paragraph1}>Şifrenizi girin</div>
-                  <img className={styles.icon} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon} alt="" src="/icon16@2x.png" />
                 </div>
               </div>
               <div className={styles.checkBoxContainer}>
@@ -186,7 +188,7 @@ const SignUpPageDesktop: FunctionComponent = () => {
               <div className={styles.line2} />
             </div>
             <div className={styles.button12}>
-              <img className={styles.icon10} alt="" src="/icon@2x.png" />
+              <img className={styles.icon10} alt="" src="/icon17@2x.png" />
               <div className={styles.text4}>Google'a kaydolun</div>
             </div>
             <div className={styles.button13}>
@@ -194,7 +196,7 @@ const SignUpPageDesktop: FunctionComponent = () => {
                 {`Zaten hesabınız var mı? `}
                 <span className={styles.koullarn}>Giriş yap</span>
               </div>
-              <img className={styles.icon} alt="" src="/icon@2x.png" />
+              <img className={styles.icon} alt="" src="/icon18@2x.png" />
             </div>
           </div>
         </div>
