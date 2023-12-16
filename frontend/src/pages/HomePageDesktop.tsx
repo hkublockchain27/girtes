@@ -43,7 +43,7 @@ const HomePageDesktop: FunctionComponent = () => {
       </div>
       <div className={styles.container1}>
         <div className={styles.button2}>
-          <img className={styles.icon1} alt="" src="/icon@2x.png" />
+          <img className={styles.icon1} alt="" src="/icon1@2x.png" />
         </div>
       </div>
       <div className={styles.header}>
@@ -51,7 +51,7 @@ const HomePageDesktop: FunctionComponent = () => {
           <div className={styles.textButton}>
             Ücretsiz Kurslar 🌟 İndirim Yakında Bitiyor, Hemen Alın
           </div>
-          <img className={styles.icon2} alt="" src="/icon@2x.png" />
+          <img className={styles.icon2} alt="" src="/icon2@2x.png" />
         </div>
         <div className={styles.navbar}>
           <div className={styles.container2}>
@@ -75,31 +75,31 @@ const HomePageDesktop: FunctionComponent = () => {
       </div>
       <div className={styles.container3}>
         <div className={styles.card}>
-          <img className={styles.logoIcon1} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon1} alt="" src="/logo1@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon2} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon2} alt="" src="/logo2@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon3} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon3} alt="" src="/logo3@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon4} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon4} alt="" src="/logo4@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon5} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon5} alt="" src="/logo5@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon6} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon6} alt="" src="/logo6@2x.png" />
         </div>
         <div className={styles.line} />
         <div className={styles.card}>
-          <img className={styles.logoIcon7} alt="" src="/logo@2x.png" />
+          <img className={styles.logoIcon7} alt="" src="/logo7@2x.png" />
         </div>
       </div>
       <div className={styles.benefitsSection}>
@@ -128,7 +128,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon3@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -141,7 +141,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon3@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -154,7 +154,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon3@2x.png" />
               </div>
             </div>
           </div>
@@ -169,7 +169,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon3@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -184,7 +184,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon3@2x.png" />
               </div>
             </div>
             <div className={styles.card7}>
@@ -196,7 +196,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 >{`Anlayışınızı geliştirmek için diğer öğrencilerle işbirliği yapın, fikir alışverişinde bulunun ve geri bildirimde bulunun. `}</div>
               </div>
               <div className={styles.button6}>
-                <img className={styles.icon} alt="" src="/icon@2x.png" />
+                <img className={styles.icon} alt="" src="/icon3@2x.png" />
               </div>
             </div>
           </div>
@@ -252,7 +252,7 @@ const HomePageDesktop: FunctionComponent = () => {
             </div>
             <div className={styles.card14}>
               <div className={styles.container8}>
-                <img className={styles.imageIcon} alt="" src="/image@2x.png" />
+                <img className={styles.imageIcon} alt="" src="/image1@2x.png" />
                 <div className={styles.container8}>
                   <div className={styles.container9}>
                     <div className={styles.subContainer2}>
@@ -291,7 +291,7 @@ const HomePageDesktop: FunctionComponent = () => {
           <div className={styles.itemsContainer2}>
             <div className={styles.card13}>
               <div className={styles.container8}>
-                <img className={styles.imageIcon} alt="" src="/image@2x.png" />
+                <img className={styles.imageIcon} alt="" src="/image2@2x.png" />
                 <div className={styles.container8}>
                   <div className={styles.container9}>
                     <div className={styles.subContainer2}>
@@ -322,7 +322,7 @@ const HomePageDesktop: FunctionComponent = () => {
             </div>
             <div className={styles.card14}>
               <div className={styles.container8}>
-                <img className={styles.imageIcon} alt="" src="/image@2x.png" />
+                <img className={styles.imageIcon} alt="" src="/image3@2x.png" />
                 <div className={styles.container8}>
                   <div className={styles.container9}>
                     <div className={styles.subContainer2}>
@@ -393,7 +393,7 @@ const HomePageDesktop: FunctionComponent = () => {
                   <img
                     className={styles.imageIcon4}
                     alt=""
-                    src="/image@2x.png"
+                    src="/image4@2x.png"
                   />
                   <div className={styles.name4}>Sarah L</div>
                 </div>
@@ -417,7 +417,7 @@ const HomePageDesktop: FunctionComponent = () => {
                   <img
                     className={styles.imageIcon4}
                     alt=""
-                    src="/image@2x.png"
+                    src="/image5@2x.png"
                   />
                   <div className={styles.name4}>Jason M</div>
                 </div>
@@ -443,7 +443,7 @@ const HomePageDesktop: FunctionComponent = () => {
                   <img
                     className={styles.imageIcon4}
                     alt=""
-                    src="/image@2x.png"
+                    src="/image6@2x.png"
                   />
                   <div className={styles.name4}>Emily R</div>
                 </div>
@@ -467,7 +467,7 @@ const HomePageDesktop: FunctionComponent = () => {
                   <img
                     className={styles.imageIcon4}
                     alt=""
-                    src="/image@2x.png"
+                    src="/image7@2x.png"
                   />
                   <div className={styles.name4}>Michael K</div>
                 </div>
@@ -499,7 +499,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 Aynı anda birden fazla kursa kayıt olabilir miyim?
               </div>
               <div className={styles.button24}>
-                <img className={styles.icon9} alt="" src="/icon@2x.png" />
+                <img className={styles.icon9} alt="" src="/icon4@2x.png" />
               </div>
             </div>
             <div className={styles.paragraph18}>
@@ -511,7 +511,7 @@ const HomePageDesktop: FunctionComponent = () => {
                 Farklı Kurslara Kayıt Süreci
               </div>
               <div className={styles.button25}>
-                <img className={styles.icon9} alt="" src="/icon@2x.png" />
+                <img className={styles.icon9} alt="" src="/icon5@2x.png" />
               </div>
             </div>
           </div>
@@ -520,7 +520,7 @@ const HomePageDesktop: FunctionComponent = () => {
               Eğitmenlerden ne tür bir destek bekleyebilirim?
             </div>
             <div className={styles.button24}>
-              <img className={styles.icon9} alt="" src="/icon@2x.png" />
+              <img className={styles.icon9} alt="" src="/icon6@2x.png" />
             </div>
           </div>
           <div className={styles.card23}>
@@ -529,7 +529,7 @@ const HomePageDesktop: FunctionComponent = () => {
               ​​ve bitiş tarihleri ​​var mı?
             </div>
             <div className={styles.button24}>
-              <img className={styles.icon9} alt="" src="/icon@2x.png" />
+              <img className={styles.icon9} alt="" src="/icon6@2x.png" />
             </div>
           </div>
           <div className={styles.card23}>
@@ -537,7 +537,7 @@ const HomePageDesktop: FunctionComponent = () => {
               Derslerin herhangi bir önkoşulu var mı?
             </div>
             <div className={styles.button24}>
-              <img className={styles.icon9} alt="" src="/icon@2x.png" />
+              <img className={styles.icon9} alt="" src="/icon6@2x.png" />
             </div>
           </div>
           <div className={styles.card23}>
@@ -545,7 +545,7 @@ const HomePageDesktop: FunctionComponent = () => {
               className={styles.heading16}
             >{`Ders materyallerini çevrimdışı erişim için indirebilir miyim? `}</div>
             <div className={styles.button24}>
-              <img className={styles.icon9} alt="" src="/icon@2x.png" />
+              <img className={styles.icon9} alt="" src="/icon6@2x.png" />
             </div>
           </div>
         </div>
@@ -553,18 +553,18 @@ const HomePageDesktop: FunctionComponent = () => {
       <div className={styles.footerSection}>
         <div className={styles.container36}>
           <div className={styles.subContainer14}>
-            <img className={styles.logoIcon} alt="" src="/logo@2x.png" />
+            <img className={styles.logoIcon} alt="" src="/logo8@2x.png" />
             <div className={styles.buttonsContainer3}>
               <div className={styles.button30}>
-                <img className={styles.icon2} alt="" src="/icon@2x.png" />
+                <img className={styles.icon2} alt="" src="/icon7@2x.png" />
                 <div className={styles.textButton}>hello@girtes.com</div>
               </div>
               <div className={styles.button30}>
-                <img className={styles.icon2} alt="" src="/icon@2x.png" />
+                <img className={styles.icon2} alt="" src="/icon8@2x.png" />
                 <div className={styles.textButton}>+90 850 000 0000</div>
               </div>
               <div className={styles.button30}>
-                <img className={styles.icon2} alt="" src="/icon@2x.png" />
+                <img className={styles.icon2} alt="" src="/icon9@2x.png" />
                 <div className={styles.textButton}>
                   Türkiye, Ankara Gençlik Spor Bakanlığı
                 </div>
@@ -593,13 +593,13 @@ const HomePageDesktop: FunctionComponent = () => {
               <div className={styles.heading2}>Sosyal Medya</div>
               <div className={styles.buttonsContainer6}>
                 <div className={styles.button33}>
-                  <img className={styles.icon2} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon2} alt="" src="/icon10@2x.png" />
                 </div>
                 <div className={styles.button33}>
-                  <img className={styles.icon2} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon2} alt="" src="/icon11@2x.png" />
                 </div>
                 <div className={styles.button33}>
-                  <img className={styles.icon2} alt="" src="/icon@2x.png" />
+                  <img className={styles.icon2} alt="" src="/icon12@2x.png" />
                 </div>
               </div>
             </div>

@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
 body {
   margin: 0;
   line-height: normal;
@@ -6,6 +7,7 @@ body {
 :root {
   /* fonts */
   --font-be-vietnam-pro: "Be Vietnam Pro";
+  --font-inter: Inter;
 
   /* font sizes */
   --font-size-lg: 18px;
@@ -13,6 +15,8 @@ body {
   --font-size-29xl: 48px;
   --font-size-5xl: 24px;
   --font-size-61xl: 80px;
+  --font-size-19xl: 38px;
+  --font-size-31xl: 50px;
 
   /* Colors */
   --white-97: #f7f7f8;
@@ -23,24 +27,43 @@ body {
   --grey-30: #4c4c4d;
   --white-99: #fcfcfd;
   --grey-15: #262626;
+  --color-gray-100: #1a1a1a;
+  --color-gray-200: rgba(255, 255, 255, 0.3);
+  --color-gray-300: rgba(255, 255, 255, 0.2);
   --orange-95: #fff4e6;
   --grey-20: #333;
   --color-darkorange: #ff9500;
+  --white-90: #e3e3e8;
+  --grey-60: #98989a;
+  --orange-97: #fff9f0;
+  --orange-90: #ffeacc;
+  --orange-80: #ffd499;
 
   /* Gaps */
   --gap-31xl: 50px;
   --gap-11xl: 30px;
   --gap-sm: 14px;
   --gap-5xs: 8px;
+  --gap-21xl: 40px;
   --gap-xl: 20px;
   --gap-7xs: 6px;
+  --gap-101xl: 120px;
   --gap-3xs: 10px;
   --gap-61xl: 80px;
   --gap-mini: 15px;
   --gap-281xl: 300px;
+  --gap-7xl: 26px;
+  --gap-4xl: 23px;
+  --gap-41xl: 60px;
+  --gap-xs: 12px;
+  --gap-81xl: 100px;
+  --gap-5xl: 24px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
 
   /* Paddings */
   --padding-81xl: 100px;
+  --padding-143xl: 162px;
   --padding-11xl: 30px;
   --padding-sm: 14px;
   --padding-31xl: 50px;
@@ -51,9 +74,17 @@ body {
   --padding-3xs: 10px;
   --padding-base: 16px;
   --padding-21xl: 40px;
+  --padding-113xl: 132px;
+  --padding-15xl: 34px;
+  --padding-61xl: 80px;
 
   /* Border radiuses */
   --br-5xs: 8px;
   --br-7xs: 6px;
   --br-xs: 12px;
+  --br-81xl: 100px;
+  --br-49xl: 68px;
+  --br-2xs: 11px;
+  --br-3xs: 10px;
+  --br-9xs: 4px;
 }
